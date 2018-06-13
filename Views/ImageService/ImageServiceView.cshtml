@@ -1,0 +1,43 @@
+﻿@model ImageService.Web.Models.ImageServiceModel
+@{
+    ViewBag.Title = "Information";
+}
+
+<h1>ImageService Information</h1>
+<div>
+    <p>
+        Service Status:@{
+            if (Model.IsConnected)
+            {
+                <img src="../../Resources/connected.jpg" height="25" width="25" />
+            }
+            else
+            {
+                <img src="../../Resources/notConnected.jpg" height="25" width="45" />
+            }
+        }
+    </p>
+</div>
+<div>
+    <p>Total Images: @Html.DisplayFor(model => model.NumberOfPhotos)</p>
+</div>
+<div>
+    <table class="table">
+        <tr>
+            <p>The students:</p>
+        </tr>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>ID</th>
+        </tr>
+        @foreach (var student in Model.StudentsList)
+            {
+            <tr>
+                <td>@Html.DisplayFor(model => student.FirstName)</td>
+                <td>@Html.DisplayFor(model => student.LastName)</td>
+                <td>@Html.DisplayFor(model => student.Id)</td>
+            </tr>
+        }
+    </table>
+</div>

@@ -1,0 +1,58 @@
+﻿@using ImageService.Web.Models
+@using ImageService.Web.Models.LogicObjects
+
+@model  IEnumerable<ImageService.Web.Models.LogicObjects.Log>
+@{
+    ViewBag.Title = "LogsView";
+}
+<h2>Logs</h2>
+<br />
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div>
+        <div>
+            @Html.DropDownList("filterParam",
+                                       new SelectList(Enum.GetValues( typeof(LogType)) ),
+                                       "ALL",
+                                       new
+                                       {
+                                           @class = "btn btn-default dropdown-toggle",
+                                           @id = "FilterID"
+                                       })
+            <input type="submit" id="filterButton" value="Filter" class="btn btn-primary" />
+            <br /><br />
+        </div>
+    </div>
+}
+<div>
+    <table class="table">
+        <tr>
+            <th>
+                <p type="text" size="4">
+                    Status
+                </p>
+            </th>
+            <th>
+                <p type="text" size="4">
+                    Message
+                </p>
+            </th>
+        </tr>
+        @{
+            //Adding the received logs from the service to the view
+            foreach (Log log in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(logMessage => log.LogType)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(logMessage => log.Message)
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+</div>

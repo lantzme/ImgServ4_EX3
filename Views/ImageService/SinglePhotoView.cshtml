@@ -1,0 +1,21 @@
+﻿@model ImageService.Web.Models.LogicObjects.Photo
+
+@{
+    ViewBag.Title = "SinglePhotoView";
+}
+
+<h2>Photo Full Size View</h2>
+<p align="left">
+    <h3>Name: @Model.PhotoName</h3>
+    <h3>Date Taken:Year: @Model.YearTaken, Month: @Model.MonthTaken</h3>
+    <img src="@Url.Content(Model.RelativePathToPhoto)">
+    <br />
+    <a href="@Url.Action("DeletePhotoView",
+                 new { relativePathToImage = Model.RelativePathToPhoto})"
+       class="btn btn-danger"
+       style="margin: 5px"
+       role="button">
+        Delete
+    </a>
+</p>
+

@@ -1,0 +1,25 @@
+﻿@model ImageService.Web.Models.LogicObjects.Photo
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>Delete Photo</h2>
+<h2>Confirm Deletion:</h2>
+<h3>Name: @Model.PhotoName</h3>
+<h3>Date Taken:Year: @Model.YearTaken, Month: @Model.MonthTaken</h3>
+<a href="@Url.Action("PhotosView")"
+   class="btn btn-primary"
+   role="button"
+   style="margin: 5px">
+    I Changed My Mind
+</a>
+<a href="@Url.Action("CommitPhotoDelete",
+                 new { relativePathToImage = Model.RelativePathToPhoto})"
+   class="btn btn-danger"
+   style="margin: 5px"
+   role="button">
+    Delete
+</a>
+<img src="@Url.Content(Model.PathToThumbnail)">
+

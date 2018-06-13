@@ -1,0 +1,24 @@
+﻿@model ImageService.Web.Models.SettingsModel
+@{
+    ViewBag.Title = "CommitHandlerDelete";
+
+}
+
+
+<h3>Delete Handler Commition?</h3>
+<br />
+
+<a href="@Url.Action("DeleteHandler")"
+   id="deleteButton"
+   style="margin: 5px"
+   class="btn btn-success"
+   role="button">
+    OK
+</a>
+<a href="@Url.Action("SettingsView")"
+   id="cancelButton"
+   style="margin: 5px"
+   class="btn btn-info"
+   role="button">
+    CANCEL
+</a>

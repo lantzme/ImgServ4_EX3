@@ -1,0 +1,64 @@
+﻿@model ImageService.Web.Models.LogicObjects.Settings
+
+@{
+    ViewBag.Title = "Settings";
+}
+<h2>Settings</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <table class="table">
+            @*Adding the data from app.config to the view*@
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.SourceName)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.SourceName)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.LogName)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.LogName)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.OutputDirectory)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.OutputDirectory)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.ThumbnailSize)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.ThumbnailSize)
+                </td>
+            </tr>
+        </table>
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Handlers)
+                </th>
+            </tr>
+            @*Adding configured handlers to the view*@
+            @foreach (string handler in Model.Handlers)
+                {
+                <tr>
+                    <td>
+                        @Html.ActionLink(handler, "ApplyDeleteHandler", new { handlerForDelete = handler })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+}
