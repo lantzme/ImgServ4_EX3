@@ -1,0 +1,177 @@
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\ApplicationInsights.config
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\csc.exe
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\vbc.exe
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\VBCSCompiler.exe
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\ImageService.Web.dll.config
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\ImageService.Web.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\ImageService.Web.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Antlr3.Runtime.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.AI.Web.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Newtonsoft.Json.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.Helpers.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.Mvc.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.Optimization.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.Razor.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.WebPages.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.WebPages.Razor.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\WebGrease.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.AI.Web.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.Helpers.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.Mvc.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.Optimization.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.Razor.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.WebPages.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\System.Web.WebPages.Razor.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Antlr3.Runtime.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\Newtonsoft.Json.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\obj\Debug\ImageService.Web.csprojResolveAssemblyReference.cache
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\obj\Debug\ImageService.Web.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\obj\Debug\ImageService.Web.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\ImageService.Communication.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\ImageService.Infrastructure.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\ImageService.Communication.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\ImageService.Infrastructure.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\ImageService.Logging.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Web\bin\ImageService.Logging.pdb
+D:\ImageService\ImageService.Web\bin\ApplicationInsights.config
+D:\ImageService\ImageService.Web\bin\roslyn\csc.exe
+D:\ImageService\ImageService.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ImageService\ImageService.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ImageService\ImageService.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ImageService\ImageService.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ImageService\ImageService.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ImageService\ImageService.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ImageService\ImageService.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\ImageService\ImageService.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ImageService\ImageService.Web\bin\roslyn\vbc.exe
+D:\ImageService\ImageService.Web\bin\roslyn\VBCSCompiler.exe
+D:\ImageService\ImageService.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\ImageService\ImageService.Web\bin\ImageService.Web.dll.config
+D:\ImageService\ImageService.Web\bin\ImageService.Web.dll
+D:\ImageService\ImageService.Web\bin\ImageService.Web.pdb
+D:\ImageService\ImageService.Web\bin\Antlr3.Runtime.dll
+D:\ImageService\ImageService.Web\bin\ImageService.Communication.dll
+D:\ImageService\ImageService.Web\bin\ImageService.Infrastructure.dll
+D:\ImageService\ImageService.Web\bin\ImageService.Logging.dll
+D:\ImageService\ImageService.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ImageService\ImageService.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\ImageService\ImageService.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ImageService\ImageService.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ImageService\ImageService.Web\bin\Microsoft.AI.Web.dll
+D:\ImageService\ImageService.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\ImageService\ImageService.Web\bin\Microsoft.ApplicationInsights.dll
+D:\ImageService\ImageService.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ImageService\ImageService.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\ImageService\ImageService.Web\bin\Newtonsoft.Json.dll
+D:\ImageService\ImageService.Web\bin\System.Web.Helpers.dll
+D:\ImageService\ImageService.Web\bin\System.Web.Mvc.dll
+D:\ImageService\ImageService.Web\bin\System.Web.Optimization.dll
+D:\ImageService\ImageService.Web\bin\System.Web.Razor.dll
+D:\ImageService\ImageService.Web\bin\System.Web.WebPages.Deployment.dll
+D:\ImageService\ImageService.Web\bin\System.Web.WebPages.dll
+D:\ImageService\ImageService.Web\bin\System.Web.WebPages.Razor.dll
+D:\ImageService\ImageService.Web\bin\WebGrease.dll
+D:\ImageService\ImageService.Web\bin\ImageService.Communication.pdb
+D:\ImageService\ImageService.Web\bin\ImageService.Infrastructure.pdb
+D:\ImageService\ImageService.Web\bin\ImageService.Logging.pdb
+D:\ImageService\ImageService.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\ImageService\ImageService.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ImageService\ImageService.Web\bin\Microsoft.AI.Web.xml
+D:\ImageService\ImageService.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\ImageService\ImageService.Web\bin\Microsoft.ApplicationInsights.xml
+D:\ImageService\ImageService.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ImageService\ImageService.Web\bin\Newtonsoft.Json.xml
+D:\ImageService\ImageService.Web\bin\System.Web.Helpers.xml
+D:\ImageService\ImageService.Web\bin\System.Web.Mvc.xml
+D:\ImageService\ImageService.Web\bin\System.Web.Optimization.xml
+D:\ImageService\ImageService.Web\bin\System.Web.Razor.xml
+D:\ImageService\ImageService.Web\bin\System.Web.WebPages.xml
+D:\ImageService\ImageService.Web\bin\System.Web.WebPages.Deployment.xml
+D:\ImageService\ImageService.Web\bin\System.Web.WebPages.Razor.xml
+D:\ImageService\ImageService.Web\bin\Antlr3.Runtime.pdb
+D:\ImageService\ImageService.Web\obj\Debug\ImageService.Web.csprojResolveAssemblyReference.cache
+D:\ImageService\ImageService.Web\obj\Debug\ImageService.Web.dll
+D:\ImageService\ImageService.Web\obj\Debug\ImageService.Web.pdb
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\ApplicationInsights.config
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\csc.exe
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\vbc.exe
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\ImageService.Web.dll.config
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\ImageService.Web.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\ImageService.Web.pdb
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Antlr3.Runtime.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\ImageService.Communication.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\ImageService.Infrastructure.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\ImageService.Logging.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Newtonsoft.Json.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.Helpers.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.Mvc.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.Optimization.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.Razor.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.WebPages.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\WebGrease.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\ImageService.Communication.pdb
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\ImageService.Infrastructure.pdb
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\ImageService.Logging.pdb
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Newtonsoft.Json.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.Helpers.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.Mvc.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.Optimization.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.Razor.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.WebPages.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\obj\Debug\ImageService.Web.csprojResolveAssemblyReference.cache
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\obj\Debug\ImageService.Web.dll
+C:\Users\Eyal\Desktop\lamadua_HAI\ImageService.Web\obj\Debug\ImageService.Web.pdb
